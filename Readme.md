@@ -10,11 +10,9 @@ The project is organized into the following directories and files:
 
 ```bash
 ├── assets
-│ ├── controller
-│ │ ├── **/\*.css
-│ ├── views
-│ ├── model
-│ ├── index.js
+│ ├── fonts
+│ ├── imgs
+│ ├── svgs
 ├── css
 │ ├── font.css
 │ ├── index.css
@@ -23,7 +21,6 @@ The project is organized into the following directories and files:
 │ ├── media-1440.css
 ├── .prettierrc
 ├── index.html
-└── .gitignore
 ```
 
 ## Key Files and Directories
@@ -40,5 +37,3 @@ The project is organized into the following directories and files:
     -   **`media-1440.css`**: CSS for screen widths up to 1440px.
     -   **`media-375.css`**: CSS for screen widths up to 375px.
 -   **`index.html`**: Main HTML file for the application.
--   **`temp/`**: Contains temporary files, including an HTML file and a CSS file.
--   **`html/`**: Directory for additional HTML files.
