@@ -19,13 +19,11 @@ The project is organized into the following directories and files:
 │ ├── media-375.css
 │ ├── media-1280.css
 │ ├── media-1440.css
-├── .prettierrc
 ├── index.html
 ```
 
 ## Key Files and Directories
 
--   **`.prettierrc`**: Configuration file for Prettier, a code formatter.
 -   **`assets/`**: Contains fonts, images, and SVG icons used in the project.
     -   **`fonts/`**: Custom fonts used in the project.
     -   **`imgs/`**: Images used in the project.
